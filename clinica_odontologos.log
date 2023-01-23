@@ -1,0 +1,448 @@
+[2022-12-11 19:42:36] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-11 19:42:36] [ WARN ] [OdontologoController:26] Operacion con Exito. Pero hasta el Momento No Hay Registros de Pacientes.
+[2022-12-11 19:42:54] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-11 19:42:54] [ WARN ] [OdontologoController:26] Operacion con Exito. Pero hasta el Momento No Hay Registros de Pacientes.
+[2022-12-11 19:43:01] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-11 19:43:01] [ WARN ] [OdontologoController:28] Operacion con Exito. Pero hasta el Momento No Hay Registros de Odontologos.
+[2022-12-11 19:43:08] [ INFO ] [OdontologoController:53] Operacion con Exito. Se Registro el Odontologo: gonzalo volpe con Matricula: 12345
+[2022-12-11 19:43:08] [ INFO ] [OdontologoServiceImpl:34] Se Inicio El Metodo Guardar Odontologo
+[2022-12-11 19:43:10] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-11 19:43:10] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-11 19:47:55] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-11 19:47:55] [ WARN ] [OdontologoController:28] Operacion con Exito. Pero hasta el Momento No Hay Registros de Odontologos.
+[2022-12-11 19:48:12] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-11 19:48:12] [ WARN ] [OdontologoController:26] Operacion con Exito. Pero hasta el Momento No Hay Registros de Pacientes.
+[2022-12-11 20:05:27] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-11 20:05:27] [ WARN ] [OdontologoController:26] Operacion con Exito. Pero hasta el Momento No Hay Registros de Pacientes.
+[2022-12-11 20:15:17] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-11 20:15:17] [ WARN ] [OdontologoController:28] Operacion con Exito. Pero hasta el Momento No Hay Registros de Odontologos.
+[2022-12-11 20:15:25] [ INFO ] [OdontologoController:53] Operacion con Exito. Se Registro el Odontologo: VOlpe Gonzalo con Matricula: 123
+[2022-12-11 20:15:25] [ INFO ] [OdontologoServiceImpl:34] Se Inicio El Metodo Guardar Odontologo
+[2022-12-11 20:15:27] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-11 20:15:27] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-11 20:18:30] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-11 20:18:30] [ WARN ] [OdontologoController:28] Operacion con Exito. Pero hasta el Momento No Hay Registros de Odontologos.
+[2022-12-11 20:18:32] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-11 20:18:32] [ WARN ] [OdontologoController:26] Operacion con Exito. Pero hasta el Momento No Hay Registros de Pacientes.
+[2022-12-12 16:37:26] [ INFO ] [OdontologoController:52] Operacion con Exito. Se Registro el Paciente: Volpe Gonzalo con DNI: 353361906
+[2022-12-12 16:37:26] [ INFO ] [PacienteServiceImpl:34] Se Inicio El Metodo Guardar Paciente
+[2022-12-12 16:37:30] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 16:37:30] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 16:42:47] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 16:42:47] [ WARN ] [OdontologoController:28] Operacion con Exito. Pero hasta el Momento No Hay Registros de Odontologos.
+[2022-12-12 16:42:51] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 16:42:51] [ WARN ] [OdontologoController:28] Operacion con Exito. Pero hasta el Momento No Hay Registros de Odontologos.
+[2022-12-12 16:43:03] [ INFO ] [OdontologoController:53] Operacion con Exito. Se Registro el Odontologo: volpe gonzalo con Matricula: 123
+[2022-12-12 16:43:03] [ INFO ] [OdontologoServiceImpl:34] Se Inicio El Metodo Guardar Odontologo
+[2022-12-12 16:43:11] [ INFO ] [OdontologoController:53] Operacion con Exito. Se Registro el Odontologo: juan  perez  con Matricula: 123351
+[2022-12-12 16:43:11] [ INFO ] [OdontologoServiceImpl:34] Se Inicio El Metodo Guardar Odontologo
+[2022-12-12 16:43:13] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 16:43:13] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 2 Odontologos.
+[2022-12-12 16:43:27] [ INFO ] [OdontologoServiceImpl:28] Se Inicio El Metodo Buscar Odontologo
+[2022-12-12 16:43:28] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 16:43:28] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 2 Odontologos.
+[2022-12-12 16:43:30] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 16:43:30] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 2 Odontologos.
+[2022-12-12 16:44:05] [ INFO ] [OdontologoController:52] Operacion con Exito. Se Registro el Paciente: volpe gonzalo con DNI: 21315
+[2022-12-12 16:44:05] [ INFO ] [PacienteServiceImpl:34] Se Inicio El Metodo Guardar Paciente
+[2022-12-12 16:44:08] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 16:44:08] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 16:44:21] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 16:44:21] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 16:44:21] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 16:44:21] [ INFO ] [TurnoServiceImpl:22] Se Inicio El Metodo Listar Turnos
+[2022-12-12 16:44:21] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 2 Odontologos.
+[2022-12-12 16:44:21] [ WARN ] [OdontologoController:39] Operacion con Exito. Pero hasta el Momento No Hay Registros de Turnos.
+[2022-12-12 16:44:30] [ INFO ] [TurnoServiceImpl:27] Se Inicio El Metodo Buscar Turno
+[2022-12-12 16:44:30] [ INFO ] [TurnoServiceImpl:22] Se Inicio El Metodo Listar Turnos
+[2022-12-12 16:44:30] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 16:44:30] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 16:44:30] [ WARN ] [OdontologoController:39] Operacion con Exito. Pero hasta el Momento No Hay Registros de Turnos.
+[2022-12-12 16:44:30] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 2 Odontologos.
+[2022-12-12 16:44:30] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 16:44:33] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 16:44:33] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 16:44:33] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 16:44:33] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 2 Odontologos.
+[2022-12-12 16:44:43] [ INFO ] [PacienteServiceImpl:28] Se Inicio El Metodo Buscar Paciente
+[2022-12-12 16:44:43] [ INFO ] [OdontologoServiceImpl:28] Se Inicio El Metodo Buscar Odontologo
+[2022-12-12 16:44:43] [ INFO ] [OdontologoController:70] Operacion con Exito. El Turno Se Asigno para el Dia: 2023-12-21 al Paciente: volpe gonzalo con el Odontologo: juan  perez .
+[2022-12-12 16:44:43] [ INFO ] [TurnoServiceImpl:32] Se Inicio El Metodo Guardar Turno
+[2022-12-12 16:44:43] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 16:44:43] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 16:44:43] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 2 Odontologos.
+[2022-12-12 16:44:43] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 16:44:46] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 16:44:46] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 16:44:46] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 16:44:46] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 2 Odontologos.
+[2022-12-12 16:44:46] [ INFO ] [TurnoServiceImpl:22] Se Inicio El Metodo Listar Turnos
+[2022-12-12 16:44:46] [ INFO ] [OdontologoController:41] Operacion con Exito. Se Han Registrado: 1 Turnos.
+[2022-12-12 16:44:57] [ INFO ] [TurnoServiceImpl:27] Se Inicio El Metodo Buscar Turno
+[2022-12-12 16:44:57] [ INFO ] [TurnoServiceImpl:42] Se Inicio El Metodo Eliminar Turno
+[2022-12-12 16:44:57] [ INFO ] [OdontologoController:118] Operacion con Exito. Se Elimino el Turno con ID: 1.
+[2022-12-12 16:45:02] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 16:45:02] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 16:45:02] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 2 Odontologos.
+[2022-12-12 16:45:02] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 16:45:10] [ INFO ] [PacienteServiceImpl:28] Se Inicio El Metodo Buscar Paciente
+[2022-12-12 16:45:10] [ INFO ] [OdontologoServiceImpl:28] Se Inicio El Metodo Buscar Odontologo
+[2022-12-12 16:45:10] [ INFO ] [OdontologoController:70] Operacion con Exito. El Turno Se Asigno para el Dia: 2222-02-25 al Paciente: volpe gonzalo con el Odontologo: juan  perez .
+[2022-12-12 16:45:10] [ INFO ] [TurnoServiceImpl:32] Se Inicio El Metodo Guardar Turno
+[2022-12-12 16:45:10] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 16:45:10] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 16:45:10] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 2 Odontologos.
+[2022-12-12 16:45:10] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 16:45:12] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 16:45:12] [ INFO ] [TurnoServiceImpl:22] Se Inicio El Metodo Listar Turnos
+[2022-12-12 16:45:12] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 16:45:12] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 2 Odontologos.
+[2022-12-12 16:45:12] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 16:45:12] [ INFO ] [OdontologoController:41] Operacion con Exito. Se Han Registrado: 1 Turnos.
+[2022-12-12 16:45:26] [ INFO ] [TurnoServiceImpl:27] Se Inicio El Metodo Buscar Turno
+[2022-12-12 16:45:26] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 16:45:26] [ INFO ] [TurnoServiceImpl:22] Se Inicio El Metodo Listar Turnos
+[2022-12-12 16:45:26] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 16:45:26] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 2 Odontologos.
+[2022-12-12 16:45:26] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 16:45:26] [ INFO ] [OdontologoController:41] Operacion con Exito. Se Han Registrado: 1 Turnos.
+[2022-12-12 16:45:28] [ INFO ] [TurnoServiceImpl:27] Se Inicio El Metodo Buscar Turno
+[2022-12-12 16:45:28] [ INFO ] [OdontologoController:50] Operacion con Exito. Se Ejecuto la Consulta Buscar Turno con ID:2 Pacientevolpe gonzalo Odontologo: juan  perez .
+[2022-12-12 16:45:47] [ INFO ] [TurnoServiceImpl:27] Se Inicio El Metodo Buscar Turno
+[2022-12-12 16:45:47] [ INFO ] [OdontologoController:104] Operacion con Exito. Se Actualizo el Turno con ID: 2
+[2022-12-12 16:45:47] [ INFO ] [TurnoServiceImpl:37] Se Inicio El Metodo Actualizar Turno
+[2022-12-12 16:45:47] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 16:45:47] [ INFO ] [TurnoServiceImpl:22] Se Inicio El Metodo Listar Turnos
+[2022-12-12 16:45:47] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 16:45:47] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 16:45:47] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 2 Odontologos.
+[2022-12-12 16:45:47] [ INFO ] [OdontologoController:41] Operacion con Exito. Se Han Registrado: 1 Turnos.
+[2022-12-12 16:45:50] [ INFO ] [TurnoServiceImpl:27] Se Inicio El Metodo Buscar Turno
+[2022-12-12 16:45:50] [ INFO ] [TurnoServiceImpl:42] Se Inicio El Metodo Eliminar Turno
+[2022-12-12 16:45:50] [ INFO ] [OdontologoController:118] Operacion con Exito. Se Elimino el Turno con ID: 2.
+[2022-12-12 16:45:54] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 16:45:54] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 2 Odontologos.
+[2022-12-12 16:45:56] [ INFO ] [OdontologoServiceImpl:28] Se Inicio El Metodo Buscar Odontologo
+[2022-12-12 16:45:56] [ INFO ] [OdontologoController:39] Operacion con Exito. Se Ejecuto la Consulta Buscar Odontologo con ID:1.
+[2022-12-12 16:46:08] [ INFO ] [OdontologoServiceImpl:28] Se Inicio El Metodo Buscar Odontologo
+[2022-12-12 16:46:08] [ INFO ] [OdontologoController:64] Operacion con Exito. Se Actualizo el Odontologo con ID: 1
+[2022-12-12 16:46:08] [ INFO ] [OdontologoServiceImpl:40] Se Inicio El Metodo Actualizar Odontologo
+[2022-12-12 16:46:08] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 16:46:08] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 2 Odontologos.
+[2022-12-12 16:56:17] [ INFO ] [OdontologoController:53] Operacion con Exito. Se Registro el Odontologo: Gonzalo volpe con Matricula: 1234
+[2022-12-12 16:56:17] [ INFO ] [OdontologoServiceImpl:34] Se Inicio El Metodo Guardar Odontologo
+[2022-12-12 16:56:25] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 16:56:25] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 16:56:27] [ INFO ] [OdontologoServiceImpl:28] Se Inicio El Metodo Buscar Odontologo
+[2022-12-12 16:56:27] [ INFO ] [OdontologoController:39] Operacion con Exito. Se Ejecuto la Consulta Buscar Odontologo con ID:1.
+[2022-12-12 16:56:30] [ INFO ] [OdontologoServiceImpl:28] Se Inicio El Metodo Buscar Odontologo
+[2022-12-12 16:56:30] [ INFO ] [OdontologoController:64] Operacion con Exito. Se Actualizo el Odontologo con ID: 1
+[2022-12-12 16:56:30] [ INFO ] [OdontologoServiceImpl:40] Se Inicio El Metodo Actualizar Odontologo
+[2022-12-12 16:56:30] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 16:56:30] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:04:35] [ INFO ] [OdontologoController:53] Operacion con Exito. Se Registro el Odontologo: Gonzalo volpe con Matricula: 1234
+[2022-12-12 17:04:35] [ INFO ] [OdontologoServiceImpl:34] Se Inicio El Metodo Guardar Odontologo
+[2022-12-12 17:04:39] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:04:39] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:04:47] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:04:47] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:04:55] [ INFO ] [OdontologoController:53] Operacion con Exito. Se Registro el Odontologo: gonzalo volpe con Matricula: 1234
+[2022-12-12 17:04:55] [ INFO ] [OdontologoServiceImpl:34] Se Inicio El Metodo Guardar Odontologo
+[2022-12-12 17:04:57] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:04:57] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 2 Odontologos.
+[2022-12-12 17:05:22] [ INFO ] [OdontologoController:52] Operacion con Exito. Se Registro el Paciente: a a con DNI: 1231
+[2022-12-12 17:05:22] [ INFO ] [PacienteServiceImpl:34] Se Inicio El Metodo Guardar Paciente
+[2022-12-12 17:05:26] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:05:26] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:05:32] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:05:32] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:05:32] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:05:32] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 2 Odontologos.
+[2022-12-12 17:05:42] [ INFO ] [PacienteServiceImpl:28] Se Inicio El Metodo Buscar Paciente
+[2022-12-12 17:05:42] [ INFO ] [OdontologoServiceImpl:28] Se Inicio El Metodo Buscar Odontologo
+[2022-12-12 17:05:42] [ INFO ] [OdontologoController:70] Operacion con Exito. El Turno Se Asigno para el Dia: 2022-12-31 al Paciente: a a con el Odontologo: Gonzalo volpe.
+[2022-12-12 17:05:42] [ INFO ] [TurnoServiceImpl:32] Se Inicio El Metodo Guardar Turno
+[2022-12-12 17:05:42] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:05:42] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:05:42] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 2 Odontologos.
+[2022-12-12 17:05:42] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:05:44] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:05:44] [ INFO ] [TurnoServiceImpl:22] Se Inicio El Metodo Listar Turnos
+[2022-12-12 17:05:44] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:05:44] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:05:44] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 2 Odontologos.
+[2022-12-12 17:05:44] [ INFO ] [OdontologoController:41] Operacion con Exito. Se Han Registrado: 1 Turnos.
+[2022-12-12 17:05:48] [ INFO ] [TurnoServiceImpl:27] Se Inicio El Metodo Buscar Turno
+[2022-12-12 17:05:48] [ INFO ] [OdontologoController:50] Operacion con Exito. Se Ejecuto la Consulta Buscar Turno con ID:1 Pacientea a Odontologo: Gonzalo volpe.
+[2022-12-12 17:05:56] [ INFO ] [TurnoServiceImpl:27] Se Inicio El Metodo Buscar Turno
+[2022-12-12 17:05:56] [ INFO ] [OdontologoController:104] Operacion con Exito. Se Actualizo el Turno con ID: 1
+[2022-12-12 17:05:56] [ INFO ] [TurnoServiceImpl:37] Se Inicio El Metodo Actualizar Turno
+[2022-12-12 17:05:56] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:05:56] [ INFO ] [TurnoServiceImpl:22] Se Inicio El Metodo Listar Turnos
+[2022-12-12 17:05:56] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:05:56] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 2 Odontologos.
+[2022-12-12 17:05:56] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:05:56] [ INFO ] [OdontologoController:41] Operacion con Exito. Se Han Registrado: 1 Turnos.
+[2022-12-12 17:06:01] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:06:01] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 2 Odontologos.
+[2022-12-12 17:06:05] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:06:05] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 2 Odontologos.
+[2022-12-12 17:07:14] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:07:14] [ WARN ] [OdontologoController:28] Operacion con Exito. Pero hasta el Momento No Hay Registros de Odontologos.
+[2022-12-12 17:07:18] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:07:18] [ WARN ] [OdontologoController:28] Operacion con Exito. Pero hasta el Momento No Hay Registros de Odontologos.
+[2022-12-12 17:07:26] [ INFO ] [OdontologoController:53] Operacion con Exito. Se Registro el Odontologo: volpe gonzalo con Matricula: 1234
+[2022-12-12 17:07:26] [ INFO ] [OdontologoServiceImpl:34] Se Inicio El Metodo Guardar Odontologo
+[2022-12-12 17:07:28] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:07:28] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:07:29] [ INFO ] [OdontologoServiceImpl:28] Se Inicio El Metodo Buscar Odontologo
+[2022-12-12 17:07:29] [ INFO ] [OdontologoController:39] Operacion con Exito. Se Ejecuto la Consulta Buscar Odontologo con ID:1.
+[2022-12-12 17:07:32] [ INFO ] [OdontologoServiceImpl:28] Se Inicio El Metodo Buscar Odontologo
+[2022-12-12 17:07:32] [ INFO ] [OdontologoController:64] Operacion con Exito. Se Actualizo el Odontologo con ID: 1
+[2022-12-12 17:07:32] [ INFO ] [OdontologoServiceImpl:40] Se Inicio El Metodo Actualizar Odontologo
+[2022-12-12 17:07:32] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:07:32] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:07:45] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:07:45] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:07:47] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:07:47] [ WARN ] [OdontologoController:26] Operacion con Exito. Pero hasta el Momento No Hay Registros de Pacientes.
+[2022-12-12 17:07:51] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:07:51] [ INFO ] [TurnoServiceImpl:22] Se Inicio El Metodo Listar Turnos
+[2022-12-12 17:07:51] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:07:51] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:07:51] [ WARN ] [OdontologoController:26] Operacion con Exito. Pero hasta el Momento No Hay Registros de Pacientes.
+[2022-12-12 17:07:51] [ WARN ] [OdontologoController:39] Operacion con Exito. Pero hasta el Momento No Hay Registros de Turnos.
+[2022-12-12 17:07:53] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:07:53] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:07:53] [ WARN ] [OdontologoController:26] Operacion con Exito. Pero hasta el Momento No Hay Registros de Pacientes.
+[2022-12-12 17:07:53] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:07:58] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:07:58] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:07:59] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:07:59] [ WARN ] [OdontologoController:26] Operacion con Exito. Pero hasta el Momento No Hay Registros de Pacientes.
+[2022-12-12 17:08:16] [ INFO ] [OdontologoController:52] Operacion con Exito. Se Registro el Paciente: vola asd con DNI: 321651
+[2022-12-12 17:08:16] [ INFO ] [PacienteServiceImpl:34] Se Inicio El Metodo Guardar Paciente
+[2022-12-12 17:08:18] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:08:18] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:08:21] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:08:21] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:08:21] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:08:21] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:08:27] [ INFO ] [PacienteServiceImpl:28] Se Inicio El Metodo Buscar Paciente
+[2022-12-12 17:08:27] [ INFO ] [OdontologoServiceImpl:28] Se Inicio El Metodo Buscar Odontologo
+[2022-12-12 17:08:27] [ ERROR] [OdontologoController:79] ERROR: La Fecha Asignada para El Turno ya Expiro.
+[2022-12-12 17:08:27] [ ERROR] [GlobalExceptions:25] La Fecha del Turno No es Valida, Ya Expiro.
+[2022-12-12 17:08:27] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:08:27] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:08:27] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:08:27] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:08:29] [ INFO ] [TurnoServiceImpl:22] Se Inicio El Metodo Listar Turnos
+[2022-12-12 17:08:29] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:08:29] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:08:29] [ WARN ] [OdontologoController:39] Operacion con Exito. Pero hasta el Momento No Hay Registros de Turnos.
+[2022-12-12 17:08:29] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:08:29] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:08:38] [ INFO ] [TurnoServiceImpl:27] Se Inicio El Metodo Buscar Turno
+[2022-12-12 17:08:38] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:08:38] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:08:38] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:08:38] [ INFO ] [TurnoServiceImpl:22] Se Inicio El Metodo Listar Turnos
+[2022-12-12 17:08:38] [ WARN ] [OdontologoController:39] Operacion con Exito. Pero hasta el Momento No Hay Registros de Turnos.
+[2022-12-12 17:08:38] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:08:40] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:08:40] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:08:40] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:08:40] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:08:54] [ INFO ] [PacienteServiceImpl:28] Se Inicio El Metodo Buscar Paciente
+[2022-12-12 17:08:54] [ INFO ] [OdontologoServiceImpl:28] Se Inicio El Metodo Buscar Odontologo
+[2022-12-12 17:08:54] [ INFO ] [OdontologoController:70] Operacion con Exito. El Turno Se Asigno para el Dia: 2023-03-31 al Paciente: vola asd con el Odontologo: volpe gonzalo david.
+[2022-12-12 17:08:54] [ INFO ] [TurnoServiceImpl:32] Se Inicio El Metodo Guardar Turno
+[2022-12-12 17:08:54] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:08:54] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:08:54] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:08:54] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:08:56] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:08:56] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:08:56] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:08:56] [ INFO ] [TurnoServiceImpl:22] Se Inicio El Metodo Listar Turnos
+[2022-12-12 17:08:56] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:08:56] [ INFO ] [OdontologoController:41] Operacion con Exito. Se Han Registrado: 1 Turnos.
+[2022-12-12 17:08:58] [ INFO ] [TurnoServiceImpl:27] Se Inicio El Metodo Buscar Turno
+[2022-12-12 17:08:58] [ INFO ] [OdontologoController:50] Operacion con Exito. Se Ejecuto la Consulta Buscar Turno con ID:1 Pacientevola asd Odontologo: volpe gonzalo david.
+[2022-12-12 17:09:03] [ INFO ] [TurnoServiceImpl:27] Se Inicio El Metodo Buscar Turno
+[2022-12-12 17:09:03] [ INFO ] [OdontologoController:104] Operacion con Exito. Se Actualizo el Turno con ID: 1
+[2022-12-12 17:09:03] [ INFO ] [TurnoServiceImpl:37] Se Inicio El Metodo Actualizar Turno
+[2022-12-12 17:09:03] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:09:03] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:09:03] [ INFO ] [TurnoServiceImpl:22] Se Inicio El Metodo Listar Turnos
+[2022-12-12 17:09:03] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:09:03] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:09:03] [ INFO ] [OdontologoController:41] Operacion con Exito. Se Han Registrado: 1 Turnos.
+[2022-12-12 17:09:08] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:09:08] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:09:08] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:09:08] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:09:08] [ INFO ] [TurnoServiceImpl:22] Se Inicio El Metodo Listar Turnos
+[2022-12-12 17:09:08] [ INFO ] [OdontologoController:41] Operacion con Exito. Se Han Registrado: 1 Turnos.
+[2022-12-12 17:09:09] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:09:09] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:09:10] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:09:10] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:09:12] [ INFO ] [OdontologoServiceImpl:28] Se Inicio El Metodo Buscar Odontologo
+[2022-12-12 17:09:12] [ INFO ] [OdontologoServiceImpl:46] Se Inicio El Metodo Eliminar Odontologo
+[2022-12-12 17:09:29] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:09:29] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:09:30] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:09:30] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:09:32] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:09:32] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:09:35] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:09:35] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:09:36] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:09:36] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:09:39] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:09:39] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:09:39] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:09:39] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:09:40] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:09:40] [ INFO ] [TurnoServiceImpl:22] Se Inicio El Metodo Listar Turnos
+[2022-12-12 17:09:40] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:09:40] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:09:40] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:09:40] [ INFO ] [OdontologoController:41] Operacion con Exito. Se Han Registrado: 1 Turnos.
+[2022-12-12 17:09:42] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:09:42] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:09:42] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:09:42] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:09:43] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:09:43] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:09:45] [ INFO ] [PacienteServiceImpl:28] Se Inicio El Metodo Buscar Paciente
+[2022-12-12 17:09:45] [ INFO ] [OdontologoController:37] Operacion con Exito. Se Ejecuto la Consulta Buscar Paciente con ID:1.
+[2022-12-12 17:09:48] [ INFO ] [PacienteServiceImpl:28] Se Inicio El Metodo Buscar Paciente
+[2022-12-12 17:09:48] [ INFO ] [OdontologoController:62] Operacion con Exito. Se Actualizo el Paciente con ID: 1
+[2022-12-12 17:09:48] [ INFO ] [PacienteServiceImpl:40] Se Inicio El Metodo Actualizar Paciente
+[2022-12-12 17:09:48] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:09:48] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:09:53] [ INFO ] [PacienteServiceImpl:28] Se Inicio El Metodo Buscar Paciente
+[2022-12-12 17:09:53] [ INFO ] [OdontologoController:37] Operacion con Exito. Se Ejecuto la Consulta Buscar Paciente con ID:1.
+[2022-12-12 17:10:00] [ INFO ] [PacienteServiceImpl:28] Se Inicio El Metodo Buscar Paciente
+[2022-12-12 17:10:00] [ INFO ] [OdontologoController:62] Operacion con Exito. Se Actualizo el Paciente con ID: 1
+[2022-12-12 17:10:00] [ INFO ] [PacienteServiceImpl:40] Se Inicio El Metodo Actualizar Paciente
+[2022-12-12 17:10:00] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:10:00] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:10:10] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:10:10] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:10:13] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:10:13] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:10:15] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:10:15] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:10:15] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:10:15] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:10:17] [ INFO ] [TurnoServiceImpl:22] Se Inicio El Metodo Listar Turnos
+[2022-12-12 17:10:17] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:10:17] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:10:17] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:10:17] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:10:17] [ INFO ] [OdontologoController:41] Operacion con Exito. Se Han Registrado: 1 Turnos.
+[2022-12-12 17:10:24] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:10:24] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:12:07] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:12:07] [ WARN ] [OdontologoController:28] Operacion con Exito. Pero hasta el Momento No Hay Registros de Odontologos.
+[2022-12-12 17:12:12] [ INFO ] [OdontologoController:53] Operacion con Exito. Se Registro el Odontologo: a a con Matricula: asda
+[2022-12-12 17:12:12] [ INFO ] [OdontologoServiceImpl:34] Se Inicio El Metodo Guardar Odontologo
+[2022-12-12 17:12:27] [ INFO ] [OdontologoController:52] Operacion con Exito. Se Registro el Paciente: a a con DNI: 1325
+[2022-12-12 17:12:27] [ INFO ] [PacienteServiceImpl:34] Se Inicio El Metodo Guardar Paciente
+[2022-12-12 17:12:28] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:12:28] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:12:28] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:12:28] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:12:36] [ INFO ] [PacienteServiceImpl:28] Se Inicio El Metodo Buscar Paciente
+[2022-12-12 17:12:36] [ INFO ] [OdontologoServiceImpl:28] Se Inicio El Metodo Buscar Odontologo
+[2022-12-12 17:12:36] [ INFO ] [OdontologoController:70] Operacion con Exito. El Turno Se Asigno para el Dia: 2022-12-31 al Paciente: a a con el Odontologo: a a.
+[2022-12-12 17:12:36] [ INFO ] [TurnoServiceImpl:32] Se Inicio El Metodo Guardar Turno
+[2022-12-12 17:12:36] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:12:36] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:12:36] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:12:36] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:12:37] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:12:37] [ INFO ] [TurnoServiceImpl:22] Se Inicio El Metodo Listar Turnos
+[2022-12-12 17:12:37] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:12:37] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 17:12:37] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 17:12:37] [ INFO ] [OdontologoController:41] Operacion con Exito. Se Han Registrado: 1 Turnos.
+[2022-12-12 17:12:38] [ INFO ] [TurnoServiceImpl:27] Se Inicio El Metodo Buscar Turno
+[2022-12-12 17:12:38] [ INFO ] [OdontologoController:50] Operacion con Exito. Se Ejecuto la Consulta Buscar Turno con ID:1 Pacientea a Odontologo: a a.
+[2022-12-12 17:12:40] [ INFO ] [TurnoServiceImpl:27] Se Inicio El Metodo Buscar Turno
+[2022-12-12 17:12:40] [ INFO ] [TurnoServiceImpl:42] Se Inicio El Metodo Eliminar Turno
+[2022-12-12 17:12:40] [ INFO ] [OdontologoController:118] Operacion con Exito. Se Elimino el Turno con ID: 1.
+[2022-12-12 17:25:45] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:25:45] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:25:45] [ WARN ] [OdontologoController:28] Operacion con Exito. Pero hasta el Momento No Hay Registros de Odontologos.
+[2022-12-12 17:25:45] [ WARN ] [OdontologoController:26] Operacion con Exito. Pero hasta el Momento No Hay Registros de Pacientes.
+[2022-12-12 17:25:48] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:25:48] [ WARN ] [OdontologoController:26] Operacion con Exito. Pero hasta el Momento No Hay Registros de Pacientes.
+[2022-12-12 17:25:48] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:25:48] [ INFO ] [TurnoServiceImpl:22] Se Inicio El Metodo Listar Turnos
+[2022-12-12 17:25:48] [ WARN ] [OdontologoController:28] Operacion con Exito. Pero hasta el Momento No Hay Registros de Odontologos.
+[2022-12-12 17:25:48] [ WARN ] [OdontologoController:39] Operacion con Exito. Pero hasta el Momento No Hay Registros de Turnos.
+[2022-12-12 17:27:33] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:27:33] [ WARN ] [OdontologoController:28] Operacion con Exito. Pero hasta el Momento No Hay Registros de Odontologos.
+[2022-12-12 17:27:38] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:27:38] [ WARN ] [OdontologoController:26] Operacion con Exito. Pero hasta el Momento No Hay Registros de Pacientes.
+[2022-12-12 17:27:39] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:27:39] [ WARN ] [OdontologoController:26] Operacion con Exito. Pero hasta el Momento No Hay Registros de Pacientes.
+[2022-12-12 17:27:39] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:27:39] [ INFO ] [TurnoServiceImpl:22] Se Inicio El Metodo Listar Turnos
+[2022-12-12 17:27:39] [ WARN ] [OdontologoController:28] Operacion con Exito. Pero hasta el Momento No Hay Registros de Odontologos.
+[2022-12-12 17:27:39] [ WARN ] [OdontologoController:39] Operacion con Exito. Pero hasta el Momento No Hay Registros de Turnos.
+[2022-12-12 17:27:40] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:27:40] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 17:27:40] [ WARN ] [OdontologoController:28] Operacion con Exito. Pero hasta el Momento No Hay Registros de Odontologos.
+[2022-12-12 17:27:40] [ WARN ] [OdontologoController:26] Operacion con Exito. Pero hasta el Momento No Hay Registros de Pacientes.
+[2022-12-12 17:27:42] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 17:27:42] [ WARN ] [OdontologoController:28] Operacion con Exito. Pero hasta el Momento No Hay Registros de Odontologos.
+[2022-12-12 18:16:16] [ INFO ] [OdontologoController:53] Operacion con Exito. Se Registro el Odontologo: a a con Matricula: 213
+[2022-12-12 18:16:16] [ INFO ] [OdontologoServiceImpl:34] Se Inicio El Metodo Guardar Odontologo
+[2022-12-12 18:16:18] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 18:16:18] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 18:16:20] [ INFO ] [OdontologoServiceImpl:28] Se Inicio El Metodo Buscar Odontologo
+[2022-12-12 18:16:20] [ INFO ] [OdontologoController:39] Operacion con Exito. Se Ejecuto la Consulta Buscar Odontologo con ID:1.
+[2022-12-12 18:16:22] [ INFO ] [OdontologoServiceImpl:28] Se Inicio El Metodo Buscar Odontologo
+[2022-12-12 18:16:22] [ INFO ] [OdontologoController:64] Operacion con Exito. Se Actualizo el Odontologo con ID: 1
+[2022-12-12 18:16:22] [ INFO ] [OdontologoServiceImpl:40] Se Inicio El Metodo Actualizar Odontologo
+[2022-12-12 18:16:22] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 18:16:22] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 18:16:24] [ INFO ] [OdontologoServiceImpl:28] Se Inicio El Metodo Buscar Odontologo
+[2022-12-12 18:16:24] [ INFO ] [OdontologoController:39] Operacion con Exito. Se Ejecuto la Consulta Buscar Odontologo con ID:1.
+[2022-12-12 18:16:27] [ INFO ] [OdontologoServiceImpl:28] Se Inicio El Metodo Buscar Odontologo
+[2022-12-12 18:16:27] [ INFO ] [OdontologoController:64] Operacion con Exito. Se Actualizo el Odontologo con ID: 1
+[2022-12-12 18:16:27] [ INFO ] [OdontologoServiceImpl:40] Se Inicio El Metodo Actualizar Odontologo
+[2022-12-12 18:16:27] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 18:16:27] [ INFO ] [OdontologoController:30] Operacion con Exito. Se Han Registrado: 1 Odontologos.
+[2022-12-12 18:16:30] [ INFO ] [OdontologoServiceImpl:28] Se Inicio El Metodo Buscar Odontologo
+[2022-12-12 18:16:30] [ INFO ] [OdontologoServiceImpl:46] Se Inicio El Metodo Eliminar Odontologo
+[2022-12-12 18:16:30] [ INFO ] [OdontologoController:78] Operacion con Exito. Se Elimino el Odontologo con ID: 1.
+[2022-12-12 18:16:43] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 18:16:43] [ WARN ] [OdontologoController:26] Operacion con Exito. Pero hasta el Momento No Hay Registros de Pacientes.
+[2022-12-12 18:17:09] [ INFO ] [OdontologoController:52] Operacion con Exito. Se Registro el Paciente: VOlpe gonzalo con DNI: 35361906
+[2022-12-12 18:17:09] [ INFO ] [PacienteServiceImpl:34] Se Inicio El Metodo Guardar Paciente
+[2022-12-12 18:17:12] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 18:17:12] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 18:17:14] [ INFO ] [PacienteServiceImpl:28] Se Inicio El Metodo Buscar Paciente
+[2022-12-12 18:17:14] [ INFO ] [OdontologoController:37] Operacion con Exito. Se Ejecuto la Consulta Buscar Paciente con ID:1.
+[2022-12-12 18:17:17] [ INFO ] [PacienteServiceImpl:28] Se Inicio El Metodo Buscar Paciente
+[2022-12-12 18:17:17] [ INFO ] [OdontologoController:62] Operacion con Exito. Se Actualizo el Paciente con ID: 1
+[2022-12-12 18:17:17] [ INFO ] [PacienteServiceImpl:40] Se Inicio El Metodo Actualizar Paciente
+[2022-12-12 18:17:17] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 18:17:17] [ INFO ] [OdontologoController:28] Operacion con Exito. Se Han Registrado: 1 Pacientes.
+[2022-12-12 18:17:22] [ INFO ] [PacienteServiceImpl:28] Se Inicio El Metodo Buscar Paciente
+[2022-12-12 18:17:22] [ INFO ] [PacienteServiceImpl:46] Se Inicio El Metodo Eliminar Paciente
+[2022-12-12 18:17:22] [ INFO ] [OdontologoController:75] Operacion con Exito. Se Elimino el Paciente con ID: 1.
+[2022-12-12 18:17:28] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 18:17:28] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 18:17:28] [ WARN ] [OdontologoController:28] Operacion con Exito. Pero hasta el Momento No Hay Registros de Odontologos.
+[2022-12-12 18:17:28] [ WARN ] [OdontologoController:26] Operacion con Exito. Pero hasta el Momento No Hay Registros de Pacientes.
+[2022-12-12 18:17:31] [ INFO ] [PacienteServiceImpl:22] Se Inicio El Metodo Listar Pacientes
+[2022-12-12 18:17:31] [ WARN ] [OdontologoController:26] Operacion con Exito. Pero hasta el Momento No Hay Registros de Pacientes.
+[2022-12-12 18:17:31] [ INFO ] [OdontologoServiceImpl:22] Se Inicio El Metodo Listar Odontologos
+[2022-12-12 18:17:31] [ WARN ] [OdontologoController:28] Operacion con Exito. Pero hasta el Momento No Hay Registros de Odontologos.
